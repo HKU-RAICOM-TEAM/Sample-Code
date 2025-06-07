@@ -5,8 +5,6 @@ Welcome! This guide will help you:
 1. Install Git on your system.
 2. Clone this repository using the terminal.
 
----
-
 ## 🛠️ Step 1: Install Git
 
 ### Linux (Debian/Ubuntu)
@@ -18,8 +16,6 @@ git --version
 ```
 
 
-
----
 
 ## 📂 Step 2: Clone the Repository
 
@@ -40,8 +36,6 @@ git --version
    ```
 
 
-
----
 
 ## 🎥 Video Tutorials
 
