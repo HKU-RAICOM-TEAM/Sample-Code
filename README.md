@@ -34,7 +34,6 @@ You're ready to go!
 
 ## 🎥 Recommended Video Tutorial
 
-Watch this quick tutorial on YouTube if you're new to Git:
-
-👉 [How to Install Git on Ubuntu and Clone a Repository](https://www.youtube.com/watch?v=bQrtezWlphU)
+[![Watch on YouTube](https://img.youtube.com/vi/bQrtezWlphU/0.jpg)](https://www.youtube.com/watch?v=bQrtezWlphU)
+**▶️ How to Install Git on Ubuntu and Clone a Repository**
 
