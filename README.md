@@ -1,4 +1,4 @@
-# 🐧 Linux Setup Guide for Cloning This Repository
+# 📦 Getting Started: Install Git & Clone This Repository
 
 This guide will help Linux users install Git and clone this repository on their environment using the terminal.
 
@@ -34,6 +34,7 @@ You're ready to go!
 
 ## 🎥 Recommended Video Tutorial
 
-[![Watch on YouTube](https://img.youtube.com/vi/bQrtezWlphU/0.jpg)](https://www.youtube.com/watch?v=bQrtezWlphU)
 **▶️ How to Install Git on Ubuntu and Clone a Repository**
+[![Watch on YouTube](https://img.youtube.com/vi/bQrtezWlphU/0.jpg)](https://www.youtube.com/watch?v=bQrtezWlphU)
+
 
