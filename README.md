@@ -55,12 +55,6 @@ For a visual guide, check out these tutorials:
 
   [![oaicite:63](https://img.youtube.com/vi/bQrtezWlphU/0.jpg)](https://www.youtube.com/watch?v=bQrtezWlphU)([youtube.com][4])
 
----
-
-Feel free to reach out if you encounter any issues or have questions!
-
----
-
 [1]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git?utm_source=chatgpt.com "1.5 Getting Started - Installing Git"
 [2]: https://phoenixnap.com/kb/how-to-install-git-windows?utm_source=chatgpt.com "How to Install Git on Windows - phoenixNAP"
 [3]: https://www.youtube.com/watch?v=qrD3z9_9DXU&utm_source=chatgpt.com "Beginner's Guide: Step by Step Tutorial to Install GIT - YouTube"
