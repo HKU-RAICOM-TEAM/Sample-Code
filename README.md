@@ -1,7 +1,3 @@
-Here's a GitHub README template to guide users through installing Git and cloning the repository [HKU-RAICOM-TEAM/Sample-Code](https://github.com/HKU-RAICOM-TEAM/Sample-Code.git) using the terminal.
-
----
-
 # 📦 Getting Started: Install Git & Clone This Repository
 
 Welcome! This guide will help you:
