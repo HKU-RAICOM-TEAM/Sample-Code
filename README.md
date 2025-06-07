@@ -1,14 +1,11 @@
-# 📦 Getting Started: Install Git & Clone This Repository
+# 🐧 Linux Setup Guide for Cloning This Repository
 
-Welcome! This guide will help you:
-
-1. Install Git on your system.
-2. Clone this repository using the terminal.
+This guide will help Linux users install Git and clone this repository on their environment using the terminal.
 
 
 ## 🛠️ Step 1: Install Git
 
-### Linux (Debian/Ubuntu)
+Open your terminal and run the following commands:
 
 ```bash
 sudo apt update
@@ -16,41 +13,28 @@ sudo apt install git
 git --version
 ```
 
+> You should see something like `git version 2.x.x` confirming the installation.
 
 
-## 📂 Step 2: Clone the Repository
+## 📥 Step 2: Clone the Repository
 
-1. Open your terminal.
-2. Navigate to the directory where you want to clone the repository.
-3. Run the following command:
+Navigate to the folder where you want to store the project and run:
 
-   ```bash
-   git clone https://github.com/HKU-RAICOM-TEAM/Sample-Code.git
-   ```
+```bash
+git clone https://github.com/HKU-RAICOM-TEAM/Sample-Code.git
+```
 
+Then enter the cloned folder:
 
+```bash
+cd Sample-Code
+```
 
-4. Navigate into the cloned directory:([phoenixnap.com][2])
+You're ready to go!
 
-   ```bash
-   cd Sample-Code
-   ```
+## 🎥 Recommended Video Tutorial
 
+Watch this quick tutorial on YouTube if you're new to Git:
 
+👉 [How to Install Git on Ubuntu and Clone a Repository](https://www.youtube.com/watch?v=bQrtezWlphU)
 
-## 🎥 Video Tutorials
-
-For a visual guide, check out these tutorials:
-
-* **Beginner's Guide: Step by Step Tutorial to Install GIT**
-
-  [![oaicite:59](https://img.youtube.com/vi/qrD3z9_9DXU/0.jpg)](https://www.youtube.com/watch?v=qrD3z9_9DXU)([youtube.com][3])
-
-* **How To Clone a Repository From GitHub Using Your Terminal**
-
-  [![oaicite:63](https://img.youtube.com/vi/bQrtezWlphU/0.jpg)](https://www.youtube.com/watch?v=bQrtezWlphU)([youtube.com][4])
-
-[1]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git?utm_source=chatgpt.com "1.5 Getting Started - Installing Git"
-[2]: https://phoenixnap.com/kb/how-to-install-git-windows?utm_source=chatgpt.com "How to Install Git on Windows - phoenixNAP"
-[3]: https://www.youtube.com/watch?v=qrD3z9_9DXU&utm_source=chatgpt.com "Beginner's Guide: Step by Step Tutorial to Install GIT - YouTube"
-[4]: https://www.youtube.com/watch?v=bQrtezWlphU&utm_source=chatgpt.com "How To Clone a Repository From GitHub Using Your Terminal"
